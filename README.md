@@ -11,7 +11,7 @@ Para rodar o projeto você precisa ter o [Python](https://www.python.org/downloa
 
 ```bash
 # Clone este repositório
-$ git clone <>
+$ git clone <https://github.com/JosenildoVicente/chute_um_numero>
 
 # Acesse a pasta do projeto no terminal/cmd
 $ cd chute_um_numero
